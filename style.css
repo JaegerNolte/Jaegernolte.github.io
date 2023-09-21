@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    margin-top: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+header {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    line-height: 60px;
+    background-color: lightgrey;
+}
+
+header * {
+    display: inline;
+    height: 60px;
+}
+
+header ul {
+    padding: 0;
+}
+
+header li {
+    margin-left: 20px;
+}
+
+section {
+    height: 100vh;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#main .profile-img {
+    width: 500px;
+    border-radius: 50%;
+}
+
+footer {
+    text-align: center;
+    padding: 50px;
+    background-color: lightgrey;
+}
+
+#main h1 {
+    font-size: 3em;
+}
+
+section h2 {
+    font-size: 3em;
+}
+
+section h3 {
+    font-size: 3em;
+}
+
+section h4 {
+    font-size: 3em;
+}
+
+section h5 {
+    font-size: 3em;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+}
+
+#main {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) ,url(Hohenzollern-castle.jpg);
+}
+
+#about {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) ,url(Blick_vom_Hohfelsen.jpg);
+}
+
+#projects {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(frankfurt-am-main.jpeg);
+}
+
+#pacman {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(frankfurt-am-main.jpeg);
+}
+
+#eye-excercise {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(frankfurt-am-main.jpeg);
+}
+
+#contact {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(German-castle-snow.jpg);
+}
