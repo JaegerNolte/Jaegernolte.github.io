@@ -81,19 +81,19 @@ header a {
 }
 
 #main {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) ,url(Hohenzollern-castle.jpg);
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) ,url(./pictures/Hohenzollern-castle.jpg);
 }
 
 #about {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) ,url(Blick_vom_Hohfelsen.jpg);
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) ,url(./pictures/Blick_vom_Hohfelsen.jpg);
 }
 
 #projects {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(frankfurt-am-main.jpeg);
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(./pictures/frankfurt-am-main.jpeg);
 }
 
 #pacman {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(frankfurt-am-main.jpeg);
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(./pictures/frankfurt-am-main.jpeg);
 }
 
 .pacmanimg {
@@ -102,9 +102,9 @@ header a {
 }
 
 #eye-excercise {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(frankfurt-am-main.jpeg);
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(./pictures/frankfurt-am-main.jpeg);
 }
 
 #contact {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(German-castle-snow.jpg);
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(./pictures/German-castle-snow.jpg);
 }
