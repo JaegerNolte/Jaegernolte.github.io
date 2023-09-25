@@ -1,7 +1,8 @@
+style {
 body {
     margin: 0;
     margin-top: 60px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Germania One', cursive;
     font-size: 20px;
 }
 
@@ -36,12 +37,13 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Germania One', cursive;
 
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
+}
 }
 
 #main .profile-img {
