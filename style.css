@@ -80,15 +80,9 @@ header a {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(./pictures/frankfurt-am-main.jpeg);
 }
 
-.pacmanimg {
-    max-width: 50%;
-    max-height: 50%;
-}
-
 #eye-excercise {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(./pictures/frankfurt-am-main.jpeg);
 }
-
 
 #website-sources {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url(./pictures/german_main.jpg);
