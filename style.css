@@ -59,6 +59,18 @@ footer {
     font-size: 3em;
 }
 
+a:visited {
+    color:blue
+}
+
+a:hover {
+    color:lightblue
+}
+
+a:active {
+    color:red
+}
+
 header a {
     text-decoration: none;
     color: black;
