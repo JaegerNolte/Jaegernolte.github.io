@@ -89,6 +89,11 @@ header a {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(./pictures/frankfurt-am-main.jpeg);
 }
 
+
+#website-sources {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url(./pictures/german_main.jpg);
+}
+
 #contact {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)) , url(./pictures/German-castle-snow.jpg);
 }
