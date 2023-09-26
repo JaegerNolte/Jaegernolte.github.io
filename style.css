@@ -179,11 +179,6 @@
     color: var(--light);
     text-align: center;
     padding: 1.5rem;
-    position: fixed;
-    left: 0px;
-    margin-bottom: 0px;
-    height: 20px;
-    width: 100%;
   }
   
   /* Media Queries */
