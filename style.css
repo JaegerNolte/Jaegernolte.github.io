@@ -59,16 +59,24 @@ footer {
     font-size: 3em;
 }
 
-a:visited {
-    color:blue
+a.more:active {
+    text-decoration: underline;
+    color: red;
 }
 
+a.more:focus,
 a:hover {
-    color:lightblue
+    text-decoration: underline;
 }
 
-a:active {
-    color:red
+a.more:link {
+    color: blue;
+    text-decoration: none;
+}
+
+a.more:visited {
+    color: purple;
+    text-decoration: none;
 }
 
 header a {
